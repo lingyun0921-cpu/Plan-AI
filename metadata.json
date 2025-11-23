@@ -1,0 +1,7 @@
+{
+  "name": "Plan AI (PPGIS)",
+  "description": "A Wechat-Mini-Program style PPGIS platform for community participatory planning. Users can mark locations, provide feedback, and use AI to analyze spatial sentiment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
